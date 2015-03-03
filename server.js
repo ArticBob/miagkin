@@ -33,7 +33,7 @@ app.get('/', function(req, res) {
 			 //-----------------------------------------//
 			//-- Déclaration des variables générales --//
 		   //-----------------------------------------//
-eheh.bite;
+		   
 var users = {}; 		// Objet users
 var usersCount = 0;
 var rooms = {}; 		// Objet rooms
